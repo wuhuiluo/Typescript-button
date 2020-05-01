@@ -1,4 +1,4 @@
-# tp
+# typescirpt封装组件
 
 ## Project setup
 ```
